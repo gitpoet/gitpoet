@@ -5,18 +5,8 @@
 
 ![Quem não lê, nada sabe, nada vê](https://3.bp.blogspot.com/_Jx9wELaKm4U/TSWlnVDPCAI/AAAAAAAAAfQ/KCfT3BmSA-0/s1600/livro+m%25C3%25A1gico.jpg)
 
-`System.out.println();`
 
-````System.out.println(); System.out.println(); System.out.println(); ````
 
->citações: Ser é ousar ser
-
-| Cabeçalho 1 |Cabeçalho 2 |
-|-------------|------------|
-| Texto 1     | Texto 2    |
-
-- [x] tarefa 1
-- [] Tarefa 2
 
 
 
