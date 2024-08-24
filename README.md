@@ -9,6 +9,19 @@
 [TExto da imagem](https://getwallpapers.com/wallpaper/full/d/4/8/172485.jpg)
 ![Texto da imagem](https://getwallpapers.com/wallpaper/full/d/4/8/172485.jpg)
 
+`System.out.println();`
+
+````System.out.println(); System.out.println(); System.out.println(); ````
+
+>citações: Ser é ousar ser
+
+| Cabeçalho 1 |Cabeçalho 2 |
+|-------------|------------|
+| Texto 1     | Texto 2    |
+
+- [x] tarefa 1
+- [] Tarefa 2
+
 
 <!--
 **gitpoet/gitpoet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
