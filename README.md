@@ -1,5 +1,13 @@
 # Alô, seja Bem-vindo ao meu _repositório_! 👋
 
+- Lista
+ -sublista
+
+ 1. Lista ordenada
+  1.1 sublista ordenada
+
+[TExto da imagem](link)
+
 
 <!--
 **gitpoet/gitpoet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
