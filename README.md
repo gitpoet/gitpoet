@@ -1,13 +1,14 @@
 # Alô, seja Bem-vindo ao meu _repositório_! 👋
 
+>Ser é ousar ser - Herman Hesse
 - Lista
  -sublista
 
  1. Lista ordenada
     1.1 sublista ordenada
 
-[TExto da imagem](https://getwallpapers.com/wallpaper/full/d/4/8/172485.jpg)
-![Texto da imagem](https://getwallpapers.com/wallpaper/full/d/4/8/172485.jpg)
+
+![Quem não lê, nada sabe, nada vê](https://3.bp.blogspot.com/_Jx9wELaKm4U/TSWlnVDPCAI/AAAAAAAAAfQ/KCfT3BmSA-0/s1600/livro+m%25C3%25A1gico.jpg)
 
 `System.out.println();`
 
@@ -21,6 +22,7 @@
 
 - [x] tarefa 1
 - [] Tarefa 2
+
 
 
 <!--
