@@ -5,6 +5,7 @@
 
 ![Quem não lê, nada sabe, nada vê](https://3.bp.blogspot.com/_Jx9wELaKm4U/TSWlnVDPCAI/AAAAAAAAAfQ/KCfT3BmSA-0/s1600/livro+m%25C3%25A1gico.jpg)
 
+>Um país se faz com homens e livros - Monteiro Lobato
 
 
 
