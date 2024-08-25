@@ -18,8 +18,13 @@
 ** MinhasTecnologias
 --------
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px"/>
+
 --------
-|Cursos | Certificados|
-| ------|------------ |
-|Fundamentos da programação orientada a objetos com Java | [Certificado](https://hermes.dio.me/certificates/B1CDGHAX.pdf)
+<<<<<<< HEAD
+--------
+|Cursos|Certificados|
+|------|------------|
+|Fundamentos da POO com Java|[Certificado](https://hermes.dio.me/certificates/B1CDGHAX.pdf)|
+---------
+![Carlos Dantas gitHub Stats](https://github-readme-stats.vercel.app/api?username=gitpoet&show_icons=true&theme=radical)
 
