@@ -21,5 +21,5 @@
 --------
 |Cursos|Certificados|
 |------|------------|
-|Fundamentos da programação orientada a objetos com Java|[Certificado](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://hermes.dio.me/certificates/B1CDGHAX.pdf)
+|Fundamentos da programação orientada a objetos com Java|[Certificado]()|
 
