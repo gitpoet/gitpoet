@@ -18,4 +18,8 @@
 ** MinhasTecnologias
 --------
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px"/>
+--------
+|Cursos|Certificados|
+|------|------------|
+|Fundamentos da programação orientada a objetos com Java|[Certificado](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://hermes.dio.me/certificates/B1CDGHAX.pdf)
 
