@@ -16,5 +16,5 @@
 - ⚡ Fun fact: ...
 
 ** MinhasTecnologias
-<img src=""https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" widyh="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" widyh="100px"/>
 
