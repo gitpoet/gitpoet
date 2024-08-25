@@ -19,7 +19,7 @@
 --------
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px"/>
 --------
-|Cursos|Certificados|
-|------|------------|
-|Fundamentos da programação orientada a objetos com Java|[Certificado](https://hermes.dio.me/certificates/B1CDGHAX.pdf)|
+|Cursos | Certificados|
+| ------|------------ |
+|Fundamentos da programação orientada a objetos com Java | [Certificado](https://hermes.dio.me/certificates/B1CDGHAX.pdf)
 
