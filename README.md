@@ -1,4 +1,4 @@
-# Alô, seja Bem-vindo ao meu _repositório_! 👋
+<center><h1># Alô, seja Bem-vindo ao meu _repositório_! 👋</></center>
 
 >Ser é ousar ser - Herman Hesse
 
@@ -7,21 +7,16 @@
 
 >Um país se faz com homens e livros - Monteiro Lobato
 
-
-
-
-
-<!--
-**gitpoet/gitpoet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 Eu me chamo Carlos Dantas
+- 🌱 Atualmentee estudo Análise e Desenvolvimento de Sistemas na Estácio de Sá
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/carlosdantasoliveira/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+** MinhasTecnologias
+<img src="
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          " widyh="100px">
+
