@@ -17,8 +17,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px"/>
 
 --------
-<<<<<<< HEAD
---------
 |Cursos|Certificados|
 |------|------------|
 |Fundamentos da POO com Java|[Certificado](https://hermes.dio.me/certificates/B1CDGHAX.pdf)|
