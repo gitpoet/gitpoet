@@ -16,6 +16,7 @@
 ** MinhasTecnologias
 --------
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px"/>
+<img src="https://assets.dio.me/cCzVi56R-CSyGJr3Q511ZH36e6u0dTdIqPikwJJ-H8k/f:webp/q:80/w:120/L3RyYWNrcy9jOTBlNzk3OS1iODA3LTQ5NDEtODk1YS04ZDg1NTY0YjE0MmUucG5n"/>
 
 --------
 |Cursos|Certificados|
