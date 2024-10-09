@@ -22,6 +22,14 @@
 |Cursos|Certificados|
 |------|------------|
 |Fundamentos da POO com Java|[Certificado](https://hermes.dio.me/certificates/B1CDGHAX.pdf)|
+|Claro - Java com Spring Boot|[Certificado](https://hermes.dio.me/certificates/UE5LFWSM.pdf)|
+|Github Copilot|[Certificado](https://hermes.dio.me/certificates/NLBR0HMW.pdf)|
+|Conhecendo collections Java|[Certificado](https://hermes.dio.me/certificates/49VWGTIX.pd)|
+|Banco de dados SQL e NoSQL para desenvolvedores Back-end|[Certificado](https://https://hermes.dio.me/certificates/YSOJFMAD.pdf)|
+|Introdução aos conceitos de API e Clean Architeture|[Certificado](https://hermes.dio.me/certificates/M1CYOYMS.pdf)|
+|Design Patterns com Java: dos clássicos (GoF) ao Spring Framework|[Certificado](https://hermes.dio.me/certificates/M5LV24FD.pdf)|
+|Desmistificando Microserviços, BFF e DDD|[Certificado](https://hermes.dio.me/certificates/FESYK0AT.pdf)|
+|Arquitetura orientada a eventos com Java, Spring Boot e Kafka|[Certificado](https://hermes.dio.me/certificates/I9G8MA6C.pdf)|
 ---------
 ![Carlos Dantas gitHub Stats](https://github-readme-stats.vercel.app/api?username=gitpoet&show_icons=true&theme=radical)
 
