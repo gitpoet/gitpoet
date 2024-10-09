@@ -7,8 +7,9 @@
 
 >Um país se faz com homens e livros - Monteiro Lobato
 
-- 🔭 Eu me chamo Carlos Dantas
-- 🌱 Atualmentee estudo Análise e Desenvolvimento de Sistemas na Estácio de Sá
+- 🔭 Olá, eu sou Carlos Jorge Dantas de Oliveira (também podem me chamar de poeta).
+- Sou formado em Letras pela UECE-Ceará e doutor em Literatura pela USC-Universidade de Santiago de Compostela.
+- 🌱 Atualmentee estudo Análise e Desenvolvimento de Sistemas na Estácio de Sá.
 - 📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/carlosdantasoliveira/)
 - 😄 Pronomes: Ele/Dele
 
