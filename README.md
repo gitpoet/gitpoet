@@ -15,8 +15,11 @@
 
 ** MinhasTecnologias
 --------
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px"/>
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px"/>|
 <img src="https://assets.dio.me/cCzVi56R-CSyGJr3Q511ZH36e6u0dTdIqPikwJJ-H8k/f:webp/q:80/w:120/L3RyYWNrcy9jOTBlNzk3OS1iODA3LTQ5NDEtODk1YS04ZDg1NTY0YjE0MmUucG5n"/>
+<img src="http://www.icone-png.com/png/26/26125.png" width="100px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5486/5486331.png" width="100px"/>
+<img src="https://static.vecteezy.com/system/resources/previews/012/697/298/non_2x/3d-javascript-logo-design-free-png.png" width="100px"/>
 <img src="https://assets.dio.me/jHe4lUamo3wFgUxUNvXlUO0iXvPk1GX2U6vYImAno_I/f:webp/q:80/w:120/L3RyYWNrcy80ZGViNDBkZS03ZmI2LTQyMjktYTZhNS05NzE4NTM4MWQ1NzcucG5n"/>
 
 --------
