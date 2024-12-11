@@ -7,7 +7,7 @@
 
 >Um país se faz com homens e livros - Monteiro Lobato
 
-- 🔭 Olá, eu sou Carlos Jorge Dantas de Oliveira (também podem me chamar de poeta).
+- 🔭 Olá, eu sou Carlos Jorge Dantas de Oliveira (também podem me chamar de poeta). Tenho 59 anos e muita vontade de aprender coisas novas.
 - Sou formado em Letras pela UECE-Ceará e doutor em Literatura pela USC-Universidade de Santiago de Compostela.
 - 🌱 Atualmentee estudo Análise e Desenvolvimento de Sistemas na Estácio de Sá.
 - 📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/carlosdantasoliveira/)
@@ -17,6 +17,7 @@
 --------
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px"/>
 <img src="https://assets.dio.me/cCzVi56R-CSyGJr3Q511ZH36e6u0dTdIqPikwJJ-H8k/f:webp/q:80/w:120/L3RyYWNrcy9jOTBlNzk3OS1iODA3LTQ5NDEtODk1YS04ZDg1NTY0YjE0MmUucG5n"/>
+<img src="https://assets.dio.me/jHe4lUamo3wFgUxUNvXlUO0iXvPk1GX2U6vYImAno_I/f:webp/q:80/w:120/L3RyYWNrcy80ZGViNDBkZS03ZmI2LTQyMjktYTZhNS05NzE4NTM4MWQ1NzcucG5n"/>
 
 --------
 |Cursos|Certificados|
@@ -30,6 +31,7 @@
 |Design Patterns com Java: dos clássicos (GoF) ao Spring Framework|[Certificado](https://hermes.dio.me/certificates/M5LV24FD.pdf)|
 |Desmistificando Microserviços, BFF e DDD|[Certificado](https://hermes.dio.me/certificates/FESYK0AT.pdf)|
 |Arquitetura orientada a eventos com Java, Spring Boot e Kafka|[Certificado](https://hermes.dio.me/certificates/I9G8MA6C.pdf)|
+|Formação Fundamentos de Inteligência Artificial|[Certificado](https://hermes.dio.me/certificates/BITEY3II.pdf)|
 ---------
 ![Carlos Dantas gitHub Stats](https://github-readme-stats.vercel.app/api?username=gitpoet&show_icons=true&theme=radical)
 
