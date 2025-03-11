@@ -36,6 +36,7 @@
 |Arquitetura orientada a eventos com Java, Spring Boot e Kafka|[Certificado](https://hermes.dio.me/certificates/I9G8MA6C.pdf)|
 |Formação Fundamentos de Inteligência Artificial|[Certificado](https://hermes.dio.me/certificates/BITEY3II.pdf)|
 |Formação HTML Web Developer|[Certificado](https://hermes.dio.me/certificates/IGKG7TXQ.pdf)|
+|Formação CSS Web Developer|[Certificado](https://hermes.dio.me/certificates/OODJ1GYE.pdf)|
 ---------
 ![Carlos Dantas gitHub Stats](https://github-readme-stats.vercel.app/api?username=gitpoet&show_icons=true&theme=radical)
 
